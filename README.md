@@ -1,8 +1,5 @@
 # 🚀 I Started Learning Python!
 
-## 📅 Date Started
-**June 2025**
-
 ## 🧠 Why I Chose Python
 - Easy to read and write
 - Great for beginners
