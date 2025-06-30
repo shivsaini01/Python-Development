@@ -26,7 +26,3 @@
   - freeCodeCamp.org
   - Programming with Mosh
   - Tech With Tim
-
-## ✍️ My First Python Code
-```python
-print("Hello, Python World!")
