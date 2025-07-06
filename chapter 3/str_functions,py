@@ -1,0 +1,6 @@
+name = "shiv"
+
+print(len(name))
+print(name.endswith("iv"))
+print(name.startswith("sh"))
+print(name.capitalize())
